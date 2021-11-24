@@ -1,0 +1,3 @@
+[submodule "parliament-docs-template"]
+	path = parliament-docs-template
+	url = https://github.com/AdobeDocs/parliament-docs-template
